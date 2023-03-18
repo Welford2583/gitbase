@@ -1,0 +1,53 @@
+body{
+    background:url(languages.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center{
+    background-color: green;
+    padding: 50px;
+    width: 350px;
+    margin-top: 90px;
+    margin-left: 180px;
+    margin: 0 auto;
+}
+
+fieldset{
+    width: fit-content;
+    padding: 50px;
+}
+
+h1{
+    color: snow;
+}
+
+legend{
+    color: snow;
+    text-align: center;
+}
+
+#snow{
+    color: snow;
+}
+
+button{
+    border: none;
+    width: 80px;
+    font-size: 15px;
+    cursor: pointer;
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 10px 0;
+    
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+a:hover{
+    color: cyan;
+}
